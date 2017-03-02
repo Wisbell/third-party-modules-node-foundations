@@ -1,0 +1,22 @@
+{
+  "name": "third-party-modules-node-foundations",
+  "version": "1.0.0",
+  "description": "https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/06-third_party_modules.md",
+  "main": "flags.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wisbell/third-party-modules-node-foundations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wisbell/third-party-modules-node-foundations/issues"
+  },
+  "homepage": "https://github.com/Wisbell/third-party-modules-node-foundations#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
